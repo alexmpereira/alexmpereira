@@ -1,8 +1,7 @@
 # 👋 Hello! Welcome to my Github profile.
 ## My name is Alex
 
-![Snake animation](https://github.com/seu-usuário-aqui/alexmpereira/blob/output/github-contribution-grid-snake.svg)
-
+![Snake animation](https://github.com/alexmpereira/alexmpereira/blob/output/github-contribution-grid-snake.svg)
 
 - 🔭 I'm a systems developer (specifically for the ecommerce sector), I have more than 10 years of experience in the sector.
 - 📚 I'm a professor at a university, I love teaching technology.
